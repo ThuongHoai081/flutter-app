@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011238401507",
+    "project_id": "app-gki-dnt",
+    "storage_bucket": "app-gki-dnt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011238401507:android:fc76fdd51b98b1a945dcd6",
+        "android_client_info": {
+          "package_name": "com.example.app_gki_dnt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvR9MbixRDD8b7d5XhJu5mmvsLEFaqZtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
