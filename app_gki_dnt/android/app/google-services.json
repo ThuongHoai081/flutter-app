@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "1011238401507",
+    "firebase_url": "https://app-gki-dnt-default-rtdb.firebaseio.com",
     "project_id": "app-gki-dnt",
     "storage_bucket": "app-gki-dnt.firebasestorage.app"
   },
